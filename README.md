@@ -14,7 +14,8 @@ Copy and paste these commands into your terminal for an immediate end-to-end run
 ### Windows (PowerShell)
 ```powershell
 # 1. Enter submission directory
-cd FINAL_SUBMISSION\Drift-Sense
+git clone https://github.com/ankurchopde/drift-sense.git
+cd drift-sense
 
 # 2. Create and activate virtual environment
 python -m venv .venv
@@ -33,7 +34,8 @@ python localize.py --reference sample_pair/reference.png --search sample_pair/se
 ### Linux / macOS (Bash)
 ```bash
 # 1. Enter submission directory
-cd FINAL_SUBMISSION/Drift-Sense
+git clone https://github.com/ankurchopde/drift-sense.git
+cd drift-sense
 
 # 2. Create and activate virtual environment
 python3 -m venv .venv
