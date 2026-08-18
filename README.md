@@ -1,7 +1,7 @@
 # Drift-Sense
 
 **ML-Powered SEM Pattern Localization for Semiconductor Metrology**  
-*SEMICON India Hackathon 2026 Submission | Target: High-Density DRAM Architecture (6F² Physical Pitch)*
+*Target: High-Density DRAM Architecture (6F² Physical Pitch)*
 
 Drift-Sense is an end-to-end Machine Learning pipeline that accurately localizes high-magnification reference SEM templates ($1\,\text{nm/px}$, $1000\times1000$ region) within wide field-of-view search overviews ($10\,\text{nm/px}$, $1000\times1000$ image). By combining FFT-based Sum of Squared Differences (SSD) candidate generation with a frozen 20-feature Tuned Random Forest classifier, Drift-Sense resolves dense periodic lattice ambiguity and SEM line-scan noise without requiring metadata or ground truth during inference.
 
