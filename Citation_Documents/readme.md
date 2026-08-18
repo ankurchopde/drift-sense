@@ -8,7 +8,7 @@ The downloaded reference files are kept here so reviewers can directly check the
 
 See:
 
-**[Final Reference Justification](../DriftSense_Final_Reference_Justification.pdf)**
+**[Final Reference Justification](driftSense_Final_Reference_Justification.pdf)**
 
 The document covers the references used for:
 - DRAM structure
