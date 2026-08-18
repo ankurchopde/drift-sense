@@ -4,7 +4,9 @@ This folder contains the downloadable reference papers and documents used during
 
 The main reference justification file lists the references that were actually used in the final solution, along with why each reference was used and where it applies in the project.
 
-The downloaded reference files are kept here so reviewers can directly check the original sources.
+The downloaded reference files are kept in folder.
+
+Non downloadable reference's website are given are in pdf
 
 See:
 
