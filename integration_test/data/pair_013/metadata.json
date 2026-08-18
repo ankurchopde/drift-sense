@@ -1,0 +1,156 @@
+{
+  "cdu": {
+    "applied_to": "layer_geometry_dimensions_before_ler_edge_profiles_in_render_high_res_master",
+    "cdu_channel": "symmetric_width_size_bias",
+    "cdu_parameter_provenance": "engineering-selected",
+    "cdu_physical_basis": "literature-supported",
+    "cell_pitch_preserved": true,
+    "dS_blc_nm": 1.0,
+    "dS_snc_nm": 1.0,
+    "distinct_from_ler": true,
+    "dw_bl_nm": -1.0,
+    "dw_wl_nm": 2.0,
+    "enabled": true,
+    "layer_centers_preserved": true,
+    "ler_channel": "independent_per_edge_displacement",
+    "literature_basis": "ITRS (2015) More Moore / IRDS (2017, 2024) More Moore identify Critical Dimension Uniformity (CDU) as a key nanoscale manufacturing and metrology challenge. Bunday et al. (L01, L02) and Constantoudis et al. (L03) give direct CD-SEM LER/CD metrology evidence. The exact numerical deltas are ENGINEERING-SELECTED experiment values, NOT literature values; they are not claimed to reproduce any specific wafer-fab CDU budget.",
+    "model": "symmetric_width_bias_per_level"
+  },
+  "coordinate_convention": "continuous zero-based pixel-edge coordinates: (0,0) is the upper-left outer image edge; pixel (column,row) covers [column,column+1) x [row,row+1), and physical nm maps by division by nm_per_pixel",
+  "gt_x": 855.0,
+  "gt_y": 800.0,
+  "high_resolution_nm_per_pixel": 1,
+  "intensity_mapping": {
+    "background": 245,
+    "bitline": 145,
+    "bitline_contact": 85,
+    "routing": 105,
+    "storage_node_contact": 55,
+    "wordline": 180
+  },
+  "layout_sha256": "09311632c08be87b97604880d4b5cc14dc715082894c61d1d8aec017f9a151d1",
+  "master_size_nm": [
+    10000,
+    10000
+  ],
+  "noise": {
+    "applied_after": "deterministic_image_formation_geometry_psf_downsampling",
+    "enabled": true,
+    "independent_realizations": true,
+    "independent_seeds": [
+      6414744719367827420,
+      2561087474038501779
+    ],
+    "independent_stream_ids": [
+      "reference",
+      "search"
+    ],
+    "line_scan_correlation": {
+      "applied_to": "stochastic_noise_realization_only_not_deterministic_image",
+      "enabled": true,
+      "literature_basis": "Roels et al. (2018) justify the existence and modeling of noise correlation associated with SEM line scanning (operator C in y = Hx + D(x) C n). The paper does NOT specify our correlation strength, kernel, or correlation length; strength and lengths here are engineering/test parameters.",
+      "model": "1d_gaussian_along_scan_axis",
+      "reference_length_px": 20.0,
+      "renormalization": "smoothed field rescaled to original std so the configured B2.6a noise level is preserved",
+      "scan_axis": 1,
+      "scan_axis_meaning": "SEM horizontal raster scan direction (along image rows); 1D correlation only",
+      "search_length_px": 2.0,
+      "strength": 0.8
+    },
+    "literature_basis": "Roels et al. (2018), 'Bayesian Deconvolution of Scanning Electron Microscopy Images Using Point-spread Function Estimation and Non-local Regularization', IEEE TIP: models SEM observations as a mixed Poisson-Gaussian process with signal-dependent (shot) and signal-independent (detector) components, and discusses correlated noise from SEM line scanning. We adopt that conceptual model y = Hx + D(x) C n. The paper does NOT provide our numerical gains/sigmas; all numerical parameters are engineering/test parameters for this synthetic pipeline.",
+    "model": "poisson_gaussian",
+    "reference": {
+      "detector_sigma_intensity": 0.5,
+      "enabled": true,
+      "gain_e_per_intensity": 25.0,
+      "model": "poisson_gaussian",
+      "seed": 6414744719367827420,
+      "seed_derivation": "sha256(join('|', master_seed, 'noise', stream_id))[:8] bytes as big-endian int",
+      "stream_id": "reference"
+    },
+    "search": {
+      "detector_sigma_intensity": 2.0,
+      "enabled": true,
+      "gain_e_per_intensity": 1.0,
+      "model": "poisson_gaussian",
+      "seed": 2561087474038501779,
+      "seed_derivation": "sha256(join('|', master_seed, 'noise', stream_id))[:8] bytes as big-endian int",
+      "stream_id": "search"
+    }
+  },
+  "overlay": {
+    "applied_to": "storage_node_contact_layer_rendering",
+    "cell_pitch_preserved": true,
+    "common_mode_reference_and_search": true,
+    "design_centers_preserved": true,
+    "enabled": true,
+    "geometry_dimensions_preserved": true,
+    "gt_invariant": true,
+    "isolated_from": [
+      "cdu",
+      "ler",
+      "psf",
+      "noise",
+      "line_scan_correlation",
+      "target_gt"
+    ],
+    "literature_basis": "Fukagawa et al. (O01), Sullivan & Shin (O02), and Graff et al. (2023, O03) support the physical existence of lithographic overlay errors and their systematic/random decomposition at few-nm scale. This B3.2 model represents the storage-node-contact level printed with a deterministic relative misregistration (dx, dy) with respect to the wordline/bitline/bitline-contact grid. The exact numerical offsets are ENGINEERING-SELECTED experiment values, NOT literature values.",
+    "model": "layer_level_relative_misregistration",
+    "overlay_dx_snc_nm": 3.0,
+    "overlay_dy_snc_nm": -2.0,
+    "overlay_parameter_provenance": "engineering-selected",
+    "overlay_physical_basis": "literature-supported",
+    "printed_snc_center_delta_nm": [
+      3.0,
+      -2.0
+    ]
+  },
+  "physical_source": "B2.1 parametric_hierarchical_rectangles",
+  "physical_variation": {
+    "amplitude_nm": 0.5,
+    "correlation_length_nm": 20.0,
+    "enabled": true,
+    "literature_basis": "ITRS (2015) More Moore / IRDS (2017, 2024) More Moore justify the physical existence and critical importance of CDU/LER/LWR variation in nanoscale devices. Numerical amplitude and correlation length are engineering sweep parameters.",
+    "variation_model": "correlated_edge_displacement_ler_lwr"
+  },
+  "psf_enabled": true,
+  "psf_literature_basis": "Kamal & Hailstone (2024), 'Determination of the Optical PSF in the Scanning Electron Microscope Using Single Nanoparticle Images' (justifies finite SEM probe/PSF). Gaussian is an engineering approximation; sigma_nm is an engineering experimental parameter and is not claimed to be a universal literature-derived value.",
+  "psf_model": "gaussian_2d",
+  "psf_sigma_nm": 5.0,
+  "reference_crop_center_nm": [
+    8550,
+    8000
+  ],
+  "reference_crop_origin_nm": [
+    8050,
+    7500
+  ],
+  "reference_fov_nm": [
+    1000,
+    1000
+  ],
+  "reference_magnification_x": 100,
+  "reference_nm_per_pixel": 1,
+  "reference_size_px": [
+    1000,
+    1000
+  ],
+  "search_downsampling_method": "area_averaging_10x10",
+  "search_fov_nm": [
+    10000,
+    10000
+  ],
+  "search_magnification_x": 10,
+  "search_nm_per_pixel": 10,
+  "search_origin_nm": [
+    0,
+    0
+  ],
+  "search_size_px": [
+    1000,
+    1000
+  ],
+  "seed": 112,
+  "target_x_nm": 8550,
+  "target_y_nm": 8000
+}

@@ -1,0 +1,2100 @@
+﻿
+===== pair_001 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (203.0, 139.0)
+  RF Confidence     : 0.8985
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 2322.2 ms
+=================================================================
+
+{
+  "predicted_x": 203.0,
+  "predicted_y": 139.0,
+  "confidence": 0.8985,
+  "num_candidates": 100,
+  "runtime_ms": 2322.25,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_002 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (883.0, 436.0)
+  RF Confidence     : 0.9793
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 1675.5 ms
+=================================================================
+
+{
+  "predicted_x": 883.0,
+  "predicted_y": 436.0,
+  "confidence": 0.9793,
+  "num_candidates": 100,
+  "runtime_ms": 1675.46,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_003 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (195.0, 464.0)
+  RF Confidence     : 0.8903
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 2342.0 ms
+=================================================================
+
+{
+  "predicted_x": 195.0,
+  "predicted_y": 464.0,
+  "confidence": 0.8903,
+  "num_candidates": 100,
+  "runtime_ms": 2342.01,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_004 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (188.0, 219.0)
+  RF Confidence     : 0.9832
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 1703.7 ms
+=================================================================
+
+{
+  "predicted_x": 188.0,
+  "predicted_y": 219.0,
+  "confidence": 0.9832,
+  "num_candidates": 100,
+  "runtime_ms": 1703.72,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_005 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (575.0, 516.0)
+  RF Confidence     : 0.9663
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 2526.3 ms
+=================================================================
+
+{
+  "predicted_x": 575.0,
+  "predicted_y": 516.0,
+  "confidence": 0.9663,
+  "num_candidates": 100,
+  "runtime_ms": 2526.3,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_006 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (761.0, 564.0)
+  RF Confidence     : 0.6183
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 1746.4 ms
+=================================================================
+
+{
+  "predicted_x": 761.0,
+  "predicted_y": 564.0,
+  "confidence": 0.6183,
+  "num_candidates": 100,
+  "runtime_ms": 1746.42,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_007 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (238.0, 777.0)
+  RF Confidence     : 0.9775
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 2526.5 ms
+=================================================================
+
+{
+  "predicted_x": 238.0,
+  "predicted_y": 777.0,
+  "confidence": 0.9775,
+  "num_candidates": 100,
+  "runtime_ms": 2526.54,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_008 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (255.0, 165.0)
+  RF Confidence     : 0.9704
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 1896.2 ms
+=================================================================
+
+{
+  "predicted_x": 255.0,
+  "predicted_y": 165.0,
+  "confidence": 0.9704,
+  "num_candidates": 100,
+  "runtime_ms": 1896.15,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_009 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (130.0, 137.0)
+  RF Confidence     : 0.9831
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 2460.0 ms
+=================================================================
+
+{
+  "predicted_x": 130.0,
+  "predicted_y": 137.0,
+  "confidence": 0.9831,
+  "num_candidates": 100,
+  "runtime_ms": 2460.03,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_010 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (903.0, 490.0)
+  RF Confidence     : 0.8615
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 1761.1 ms
+=================================================================
+
+{
+  "predicted_x": 903.0,
+  "predicted_y": 490.0,
+  "confidence": 0.8615,
+  "num_candidates": 100,
+  "runtime_ms": 1761.14,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_011 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (546.0, 231.0)
+  RF Confidence     : 0.9721
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 2377.3 ms
+=================================================================
+
+{
+  "predicted_x": 546.0,
+  "predicted_y": 231.0,
+  "confidence": 0.9721,
+  "num_candidates": 100,
+  "runtime_ms": 2377.33,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_012 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (250.0, 835.0)
+  RF Confidence     : 0.7950
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 1708.4 ms
+=================================================================
+
+{
+  "predicted_x": 250.0,
+  "predicted_y": 835.0,
+  "confidence": 0.795,
+  "num_candidates": 100,
+  "runtime_ms": 1708.42,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_013 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (855.0, 800.0)
+  RF Confidence     : 0.9789
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 2270.3 ms
+=================================================================
+
+{
+  "predicted_x": 855.0,
+  "predicted_y": 800.0,
+  "confidence": 0.9789,
+  "num_candidates": 100,
+  "runtime_ms": 2270.34,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_014 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (814.0, 195.0)
+  RF Confidence     : 0.9793
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 1740.1 ms
+=================================================================
+
+{
+  "predicted_x": 814.0,
+  "predicted_y": 195.0,
+  "confidence": 0.9793,
+  "num_candidates": 100,
+  "runtime_ms": 1740.11,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_015 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (91.0, 859.0)
+  RF Confidence     : 0.9712
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 2472.2 ms
+=================================================================
+
+{
+  "predicted_x": 91.0,
+  "predicted_y": 859.0,
+  "confidence": 0.9712,
+  "num_candidates": 100,
+  "runtime_ms": 2472.23,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_016 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (225.0, 485.0)
+  RF Confidence     : 0.9832
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 1725.3 ms
+=================================================================
+
+{
+  "predicted_x": 225.0,
+  "predicted_y": 485.0,
+  "confidence": 0.9832,
+  "num_candidates": 100,
+  "runtime_ms": 1725.29,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_017 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (799.0, 451.0)
+  RF Confidence     : 0.9401
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 2522.4 ms
+=================================================================
+
+{
+  "predicted_x": 799.0,
+  "predicted_y": 451.0,
+  "confidence": 0.9401,
+  "num_candidates": 100,
+  "runtime_ms": 2522.45,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_018 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (752.0, 493.0)
+  RF Confidence     : 0.9732
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 1720.2 ms
+=================================================================
+
+{
+  "predicted_x": 752.0,
+  "predicted_y": 493.0,
+  "confidence": 0.9732,
+  "num_candidates": 100,
+  "runtime_ms": 1720.15,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_019 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (85.0, 906.0)
+  RF Confidence     : 0.5878
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 2419.7 ms
+=================================================================
+
+{
+  "predicted_x": 85.0,
+  "predicted_y": 906.0,
+  "confidence": 0.5878,
+  "num_candidates": 100,
+  "runtime_ms": 2419.7,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_020 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (763.0, 210.0)
+  RF Confidence     : 0.9341
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 1684.5 ms
+=================================================================
+
+{
+  "predicted_x": 763.0,
+  "predicted_y": 210.0,
+  "confidence": 0.9341,
+  "num_candidates": 100,
+  "runtime_ms": 1684.47,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_021 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (206.0, 216.0)
+  RF Confidence     : 0.9833
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 2494.4 ms
+=================================================================
+
+{
+  "predicted_x": 206.0,
+  "predicted_y": 216.0,
+  "confidence": 0.9833,
+  "num_candidates": 100,
+  "runtime_ms": 2494.36,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_022 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (84.0, 547.0)
+  RF Confidence     : 0.8934
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 1726.5 ms
+=================================================================
+
+{
+  "predicted_x": 84.0,
+  "predicted_y": 547.0,
+  "confidence": 0.8934,
+  "num_candidates": 100,
+  "runtime_ms": 1726.46,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_023 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (159.0, 240.0)
+  RF Confidence     : 0.9832
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 2428.0 ms
+=================================================================
+
+{
+  "predicted_x": 159.0,
+  "predicted_y": 240.0,
+  "confidence": 0.9832,
+  "num_candidates": 100,
+  "runtime_ms": 2428.03,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_024 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (237.0, 811.0)
+  RF Confidence     : 0.9833
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 1871.3 ms
+=================================================================
+
+{
+  "predicted_x": 237.0,
+  "predicted_y": 811.0,
+  "confidence": 0.9833,
+  "num_candidates": 100,
+  "runtime_ms": 1871.27,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_025 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (450.0, 432.0)
+  RF Confidence     : 0.9833
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 2789.5 ms
+=================================================================
+
+{
+  "predicted_x": 450.0,
+  "predicted_y": 432.0,
+  "confidence": 0.9833,
+  "num_candidates": 100,
+  "runtime_ms": 2789.48,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_026 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (467.0, 214.0)
+  RF Confidence     : 0.9717
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 1891.2 ms
+=================================================================
+
+{
+  "predicted_x": 467.0,
+  "predicted_y": 214.0,
+  "confidence": 0.9717,
+  "num_candidates": 100,
+  "runtime_ms": 1891.25,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_027 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (762.0, 860.0)
+  RF Confidence     : 0.9792
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 2497.3 ms
+=================================================================
+
+{
+  "predicted_x": 762.0,
+  "predicted_y": 860.0,
+  "confidence": 0.9792,
+  "num_candidates": 100,
+  "runtime_ms": 2497.31,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_028 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (823.0, 813.0)
+  RF Confidence     : 0.9793
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 1788.9 ms
+=================================================================
+
+{
+  "predicted_x": 823.0,
+  "predicted_y": 813.0,
+  "confidence": 0.9793,
+  "num_candidates": 100,
+  "runtime_ms": 1788.93,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_029 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (228.0, 124.0)
+  RF Confidence     : 0.9663
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 2744.9 ms
+=================================================================
+
+{
+  "predicted_x": 228.0,
+  "predicted_y": 124.0,
+  "confidence": 0.9663,
+  "num_candidates": 100,
+  "runtime_ms": 2744.86,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_030 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (455.0, 477.0)
+  RF Confidence     : 0.9833
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 1854.8 ms
+=================================================================
+
+{
+  "predicted_x": 455.0,
+  "predicted_y": 477.0,
+  "confidence": 0.9833,
+  "num_candidates": 100,
+  "runtime_ms": 1854.82,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_031 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (818.0, 230.0)
+  RF Confidence     : 0.9793
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 2595.9 ms
+=================================================================
+
+{
+  "predicted_x": 818.0,
+  "predicted_y": 230.0,
+  "confidence": 0.9793,
+  "num_candidates": 100,
+  "runtime_ms": 2595.95,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_032 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (463.0, 509.0)
+  RF Confidence     : 0.9830
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 1828.9 ms
+=================================================================
+
+{
+  "predicted_x": 463.0,
+  "predicted_y": 509.0,
+  "confidence": 0.983,
+  "num_candidates": 100,
+  "runtime_ms": 1828.86,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_033 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (528.0, 161.0)
+  RF Confidence     : 0.9793
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 2701.8 ms
+=================================================================
+
+{
+  "predicted_x": 528.0,
+  "predicted_y": 161.0,
+  "confidence": 0.9793,
+  "num_candidates": 100,
+  "runtime_ms": 2701.78,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_034 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (502.0, 532.0)
+  RF Confidence     : 0.9791
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 1891.8 ms
+=================================================================
+
+{
+  "predicted_x": 502.0,
+  "predicted_y": 532.0,
+  "confidence": 0.9791,
+  "num_candidates": 100,
+  "runtime_ms": 1891.76,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_035 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (141.0, 428.0)
+  RF Confidence     : 0.9016
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 2409.4 ms
+=================================================================
+
+{
+  "predicted_x": 141.0,
+  "predicted_y": 428.0,
+  "confidence": 0.9016,
+  "num_candidates": 100,
+  "runtime_ms": 2409.42,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_036 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (500.0, 121.0)
+  RF Confidence     : 0.9793
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 1741.4 ms
+=================================================================
+
+{
+  "predicted_x": 500.0,
+  "predicted_y": 121.0,
+  "confidence": 0.9793,
+  "num_candidates": 100,
+  "runtime_ms": 1741.42,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_037 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (864.0, 537.0)
+  RF Confidence     : 0.9791
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 2709.5 ms
+=================================================================
+
+{
+  "predicted_x": 864.0,
+  "predicted_y": 537.0,
+  "confidence": 0.9791,
+  "num_candidates": 100,
+  "runtime_ms": 2709.51,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_038 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (527.0, 109.0)
+  RF Confidence     : 0.9792
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 1890.1 ms
+=================================================================
+
+{
+  "predicted_x": 527.0,
+  "predicted_y": 109.0,
+  "confidence": 0.9792,
+  "num_candidates": 100,
+  "runtime_ms": 1890.11,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_039 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (795.0, 530.0)
+  RF Confidence     : 0.8823
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 2703.2 ms
+=================================================================
+
+{
+  "predicted_x": 795.0,
+  "predicted_y": 530.0,
+  "confidence": 0.8823,
+  "num_candidates": 100,
+  "runtime_ms": 2703.19,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_040 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (187.0, 881.0)
+  RF Confidence     : 0.9832
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 1823.5 ms
+=================================================================
+
+{
+  "predicted_x": 187.0,
+  "predicted_y": 881.0,
+  "confidence": 0.9832,
+  "num_candidates": 100,
+  "runtime_ms": 1823.46,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_041 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (915.0, 191.0)
+  RF Confidence     : 0.9779
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 2302.0 ms
+=================================================================
+
+{
+  "predicted_x": 915.0,
+  "predicted_y": 191.0,
+  "confidence": 0.9779,
+  "num_candidates": 100,
+  "runtime_ms": 2302.03,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_042 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (105.0, 90.0)
+  RF Confidence     : 0.9629
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 1715.1 ms
+=================================================================
+
+{
+  "predicted_x": 105.0,
+  "predicted_y": 90.0,
+  "confidence": 0.9629,
+  "num_candidates": 100,
+  "runtime_ms": 1715.09,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_043 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (562.0, 148.0)
+  RF Confidence     : 0.9719
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 2393.3 ms
+=================================================================
+
+{
+  "predicted_x": 562.0,
+  "predicted_y": 148.0,
+  "confidence": 0.9719,
+  "num_candidates": 100,
+  "runtime_ms": 2393.27,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_044 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (194.0, 530.0)
+  RF Confidence     : 0.8949
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 1695.6 ms
+=================================================================
+
+{
+  "predicted_x": 194.0,
+  "predicted_y": 530.0,
+  "confidence": 0.8949,
+  "num_candidates": 100,
+  "runtime_ms": 1695.62,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_045 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (247.0, 223.0)
+  RF Confidence     : 0.9759
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 2394.4 ms
+=================================================================
+
+{
+  "predicted_x": 247.0,
+  "predicted_y": 223.0,
+  "confidence": 0.9759,
+  "num_candidates": 100,
+  "runtime_ms": 2394.41,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_046 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (230.0, 475.0)
+  RF Confidence     : 0.9832
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 1725.3 ms
+=================================================================
+
+{
+  "predicted_x": 230.0,
+  "predicted_y": 475.0,
+  "confidence": 0.9832,
+  "num_candidates": 100,
+  "runtime_ms": 1725.3,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_047 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (241.0, 809.0)
+  RF Confidence     : 0.9064
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 2402.0 ms
+=================================================================
+
+{
+  "predicted_x": 241.0,
+  "predicted_y": 809.0,
+  "confidence": 0.9064,
+  "num_candidates": 100,
+  "runtime_ms": 2402.0,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_048 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (259.0, 536.0)
+  RF Confidence     : 0.9566
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 1705.7 ms
+=================================================================
+
+{
+  "predicted_x": 259.0,
+  "predicted_y": 536.0,
+  "confidence": 0.9566,
+  "num_candidates": 100,
+  "runtime_ms": 1705.72,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_049 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (423.0, 914.0)
+  RF Confidence     : 0.9692
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 2542.6 ms
+=================================================================
+
+{
+  "predicted_x": 423.0,
+  "predicted_y": 914.0,
+  "confidence": 0.9692,
+  "num_candidates": 100,
+  "runtime_ms": 2542.55,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_050 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (809.0, 533.0)
+  RF Confidence     : 0.8964
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 1793.3 ms
+=================================================================
+
+{
+  "predicted_x": 809.0,
+  "predicted_y": 533.0,
+  "confidence": 0.8964,
+  "num_candidates": 100,
+  "runtime_ms": 1793.29,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_051 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (908.0, 123.0)
+  RF Confidence     : 0.8638
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 2674.0 ms
+=================================================================
+
+{
+  "predicted_x": 908.0,
+  "predicted_y": 123.0,
+  "confidence": 0.8638,
+  "num_candidates": 100,
+  "runtime_ms": 2673.98,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_052 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (819.0, 167.0)
+  RF Confidence     : 0.9793
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 1867.8 ms
+=================================================================
+
+{
+  "predicted_x": 819.0,
+  "predicted_y": 167.0,
+  "confidence": 0.9793,
+  "num_candidates": 100,
+  "runtime_ms": 1867.84,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_053 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (812.0, 483.0)
+  RF Confidence     : 0.9791
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 2489.5 ms
+=================================================================
+
+{
+  "predicted_x": 812.0,
+  "predicted_y": 483.0,
+  "confidence": 0.9791,
+  "num_candidates": 100,
+  "runtime_ms": 2489.5,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_054 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (484.0, 493.0)
+  RF Confidence     : 0.9715
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 1719.0 ms
+=================================================================
+
+{
+  "predicted_x": 484.0,
+  "predicted_y": 493.0,
+  "confidence": 0.9715,
+  "num_candidates": 100,
+  "runtime_ms": 1718.98,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_055 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (546.0, 158.0)
+  RF Confidence     : 0.9792
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 2388.8 ms
+=================================================================
+
+{
+  "predicted_x": 546.0,
+  "predicted_y": 158.0,
+  "confidence": 0.9792,
+  "num_candidates": 100,
+  "runtime_ms": 2388.85,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_056 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (169.0, 132.0)
+  RF Confidence     : 0.9833
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 1725.5 ms
+=================================================================
+
+{
+  "predicted_x": 169.0,
+  "predicted_y": 132.0,
+  "confidence": 0.9833,
+  "num_candidates": 100,
+  "runtime_ms": 1725.47,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_057 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (202.0, 820.0)
+  RF Confidence     : 0.9833
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 2608.1 ms
+=================================================================
+
+{
+  "predicted_x": 202.0,
+  "predicted_y": 820.0,
+  "confidence": 0.9833,
+  "num_candidates": 100,
+  "runtime_ms": 2608.09,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_058 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (108.0, 82.0)
+  RF Confidence     : 0.9545
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 1834.3 ms
+=================================================================
+
+{
+  "predicted_x": 108.0,
+  "predicted_y": 82.0,
+  "confidence": 0.9545,
+  "num_candidates": 100,
+  "runtime_ms": 1834.33,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_059 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (750.0, 189.0)
+  RF Confidence     : 0.9793
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 2594.2 ms
+=================================================================
+
+{
+  "predicted_x": 750.0,
+  "predicted_y": 189.0,
+  "confidence": 0.9793,
+  "num_candidates": 100,
+  "runtime_ms": 2594.17,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_060 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (780.0, 894.0)
+  RF Confidence     : 0.9672
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 1846.0 ms
+=================================================================
+
+{
+  "predicted_x": 780.0,
+  "predicted_y": 894.0,
+  "confidence": 0.9672,
+  "num_candidates": 100,
+  "runtime_ms": 1846.01,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_061 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (839.0, 192.0)
+  RF Confidence     : 0.9741
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 2823.8 ms
+=================================================================
+
+{
+  "predicted_x": 839.0,
+  "predicted_y": 192.0,
+  "confidence": 0.9741,
+  "num_candidates": 100,
+  "runtime_ms": 2823.83,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_062 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (856.0, 131.0)
+  RF Confidence     : 0.9525
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 1723.9 ms
+=================================================================
+
+{
+  "predicted_x": 856.0,
+  "predicted_y": 131.0,
+  "confidence": 0.9525,
+  "num_candidates": 100,
+  "runtime_ms": 1723.93,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_063 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (907.0, 169.0)
+  RF Confidence     : 0.9105
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 2383.6 ms
+=================================================================
+
+{
+  "predicted_x": 907.0,
+  "predicted_y": 169.0,
+  "confidence": 0.9105,
+  "num_candidates": 100,
+  "runtime_ms": 2383.55,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_064 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (447.0, 865.0)
+  RF Confidence     : 0.9833
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 1800.6 ms
+=================================================================
+
+{
+  "predicted_x": 447.0,
+  "predicted_y": 865.0,
+  "confidence": 0.9833,
+  "num_candidates": 100,
+  "runtime_ms": 1800.59,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_065 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (165.0, 151.0)
+  RF Confidence     : 0.9833
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 2434.7 ms
+=================================================================
+
+{
+  "predicted_x": 165.0,
+  "predicted_y": 151.0,
+  "confidence": 0.9833,
+  "num_candidates": 100,
+  "runtime_ms": 2434.69,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_066 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (751.0, 893.0)
+  RF Confidence     : 0.9793
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 1730.8 ms
+=================================================================
+
+{
+  "predicted_x": 751.0,
+  "predicted_y": 893.0,
+  "confidence": 0.9793,
+  "num_candidates": 100,
+  "runtime_ms": 1730.77,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_067 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (210.0, 469.0)
+  RF Confidence     : 0.9833
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 2347.5 ms
+=================================================================
+
+{
+  "predicted_x": 210.0,
+  "predicted_y": 469.0,
+  "confidence": 0.9833,
+  "num_candidates": 100,
+  "runtime_ms": 2347.53,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_068 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (198.0, 564.0)
+  RF Confidence     : 0.9833
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 1707.8 ms
+=================================================================
+
+{
+  "predicted_x": 198.0,
+  "predicted_y": 564.0,
+  "confidence": 0.9833,
+  "num_candidates": 100,
+  "runtime_ms": 1707.79,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_069 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (191.0, 432.0)
+  RF Confidence     : 0.9832
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 2386.7 ms
+=================================================================
+
+{
+  "predicted_x": 191.0,
+  "predicted_y": 432.0,
+  "confidence": 0.9832,
+  "num_candidates": 100,
+  "runtime_ms": 2386.68,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_070 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (917.0, 818.0)
+  RF Confidence     : 0.9665
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 1705.3 ms
+=================================================================
+
+{
+  "predicted_x": 917.0,
+  "predicted_y": 818.0,
+  "confidence": 0.9665,
+  "num_candidates": 100,
+  "runtime_ms": 1705.3,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_071 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (114.0, 497.0)
+  RF Confidence     : 0.9663
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 2369.5 ms
+=================================================================
+
+{
+  "predicted_x": 114.0,
+  "predicted_y": 497.0,
+  "confidence": 0.9663,
+  "num_candidates": 100,
+  "runtime_ms": 2369.5,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_072 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (486.0, 110.0)
+  RF Confidence     : 0.9833
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 1674.6 ms
+=================================================================
+
+{
+  "predicted_x": 486.0,
+  "predicted_y": 110.0,
+  "confidence": 0.9833,
+  "num_candidates": 100,
+  "runtime_ms": 1674.61,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_073 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (207.0, 843.0)
+  RF Confidence     : 0.9721
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 2362.9 ms
+=================================================================
+
+{
+  "predicted_x": 207.0,
+  "predicted_y": 843.0,
+  "confidence": 0.9721,
+  "num_candidates": 100,
+  "runtime_ms": 2362.93,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_074 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (123.0, 892.0)
+  RF Confidence     : 0.9097
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 1723.0 ms
+=================================================================
+
+{
+  "predicted_x": 123.0,
+  "predicted_y": 892.0,
+  "confidence": 0.9097,
+  "num_candidates": 100,
+  "runtime_ms": 1723.0,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_075 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (882.0, 833.0)
+  RF Confidence     : 0.8263
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 2299.9 ms
+=================================================================
+
+{
+  "predicted_x": 882.0,
+  "predicted_y": 833.0,
+  "confidence": 0.8263,
+  "num_candidates": 100,
+  "runtime_ms": 2299.93,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_076 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (118.0, 843.0)
+  RF Confidence     : 0.9832
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 1749.7 ms
+=================================================================
+
+{
+  "predicted_x": 118.0,
+  "predicted_y": 843.0,
+  "confidence": 0.9832,
+  "num_candidates": 100,
+  "runtime_ms": 1749.67,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_077 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (466.0, 207.0)
+  RF Confidence     : 0.8829
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 2731.4 ms
+=================================================================
+
+{
+  "predicted_x": 466.0,
+  "predicted_y": 207.0,
+  "confidence": 0.8829,
+  "num_candidates": 100,
+  "runtime_ms": 2731.45,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_078 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (227.0, 860.0)
+  RF Confidence     : 0.9833
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 1716.7 ms
+=================================================================
+
+{
+  "predicted_x": 227.0,
+  "predicted_y": 860.0,
+  "confidence": 0.9833,
+  "num_candidates": 100,
+  "runtime_ms": 1716.69,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_079 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (160.0, 850.0)
+  RF Confidence     : 0.9755
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 2407.2 ms
+=================================================================
+
+{
+  "predicted_x": 160.0,
+  "predicted_y": 850.0,
+  "confidence": 0.9755,
+  "num_candidates": 100,
+  "runtime_ms": 2407.25,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_080 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (157.0, 83.0)
+  RF Confidence     : 0.9742
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 1733.5 ms
+=================================================================
+
+{
+  "predicted_x": 157.0,
+  "predicted_y": 83.0,
+  "confidence": 0.9742,
+  "num_candidates": 100,
+  "runtime_ms": 1733.46,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_081 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (464.0, 478.0)
+  RF Confidence     : 0.9776
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 2399.9 ms
+=================================================================
+
+{
+  "predicted_x": 464.0,
+  "predicted_y": 478.0,
+  "confidence": 0.9776,
+  "num_candidates": 100,
+  "runtime_ms": 2399.86,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_082 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (183.0, 133.0)
+  RF Confidence     : 0.9833
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 1716.2 ms
+=================================================================
+
+{
+  "predicted_x": 183.0,
+  "predicted_y": 133.0,
+  "confidence": 0.9833,
+  "num_candidates": 100,
+  "runtime_ms": 1716.15,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_083 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (927.0, 865.0)
+  RF Confidence     : 0.9438
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 2337.6 ms
+=================================================================
+
+{
+  "predicted_x": 927.0,
+  "predicted_y": 865.0,
+  "confidence": 0.9438,
+  "num_candidates": 100,
+  "runtime_ms": 2337.57,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_084 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (754.0, 444.0)
+  RF Confidence     : 0.9506
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 1744.7 ms
+=================================================================
+
+{
+  "predicted_x": 754.0,
+  "predicted_y": 444.0,
+  "confidence": 0.9506,
+  "num_candidates": 100,
+  "runtime_ms": 1744.65,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_085 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (476.0, 781.0)
+  RF Confidence     : 0.9833
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 2286.9 ms
+=================================================================
+
+{
+  "predicted_x": 476.0,
+  "predicted_y": 781.0,
+  "confidence": 0.9833,
+  "num_candidates": 100,
+  "runtime_ms": 2286.95,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_086 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (169.0, 424.0)
+  RF Confidence     : 0.9758
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 1715.4 ms
+=================================================================
+
+{
+  "predicted_x": 169.0,
+  "predicted_y": 424.0,
+  "confidence": 0.9758,
+  "num_candidates": 100,
+  "runtime_ms": 1715.38,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_087 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (218.0, 866.0)
+  RF Confidence     : 0.9832
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 2299.4 ms
+=================================================================
+
+{
+  "predicted_x": 218.0,
+  "predicted_y": 866.0,
+  "confidence": 0.9832,
+  "num_candidates": 100,
+  "runtime_ms": 2299.4,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_088 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (590.0, 582.0)
+  RF Confidence     : 0.8185
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 1676.8 ms
+=================================================================
+
+{
+  "predicted_x": 590.0,
+  "predicted_y": 582.0,
+  "confidence": 0.8185,
+  "num_candidates": 100,
+  "runtime_ms": 1676.84,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_089 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (823.0, 559.0)
+  RF Confidence     : 0.9624
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 2488.1 ms
+=================================================================
+
+{
+  "predicted_x": 823.0,
+  "predicted_y": 559.0,
+  "confidence": 0.9624,
+  "num_candidates": 100,
+  "runtime_ms": 2488.12,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_090 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (801.0, 116.0)
+  RF Confidence     : 0.9792
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 1724.8 ms
+=================================================================
+
+{
+  "predicted_x": 801.0,
+  "predicted_y": 116.0,
+  "confidence": 0.9792,
+  "num_candidates": 100,
+  "runtime_ms": 1724.79,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_091 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (137.0, 569.0)
+  RF Confidence     : 0.9832
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 2606.6 ms
+=================================================================
+
+{
+  "predicted_x": 137.0,
+  "predicted_y": 569.0,
+  "confidence": 0.9832,
+  "num_candidates": 100,
+  "runtime_ms": 2606.63,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_092 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (588.0, 569.0)
+  RF Confidence     : 0.9716
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 1819.0 ms
+=================================================================
+
+{
+  "predicted_x": 588.0,
+  "predicted_y": 569.0,
+  "confidence": 0.9716,
+  "num_candidates": 100,
+  "runtime_ms": 1819.03,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_093 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (209.0, 201.0)
+  RF Confidence     : 0.9506
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 2588.1 ms
+=================================================================
+
+{
+  "predicted_x": 209.0,
+  "predicted_y": 201.0,
+  "confidence": 0.9506,
+  "num_candidates": 100,
+  "runtime_ms": 2588.06,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_094 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (772.0, 562.0)
+  RF Confidence     : 0.9793
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 1781.0 ms
+=================================================================
+
+{
+  "predicted_x": 772.0,
+  "predicted_y": 562.0,
+  "confidence": 0.9793,
+  "num_candidates": 100,
+  "runtime_ms": 1781.03,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_095 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (188.0, 499.0)
+  RF Confidence     : 0.9833
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 2517.6 ms
+=================================================================
+
+{
+  "predicted_x": 188.0,
+  "predicted_y": 499.0,
+  "confidence": 0.9833,
+  "num_candidates": 100,
+  "runtime_ms": 2517.58,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_096 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (782.0, 203.0)
+  RF Confidence     : 0.9792
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 1822.6 ms
+=================================================================
+
+{
+  "predicted_x": 782.0,
+  "predicted_y": 203.0,
+  "confidence": 0.9792,
+  "num_candidates": 100,
+  "runtime_ms": 1822.57,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_097 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (755.0, 809.0)
+  RF Confidence     : 0.9733
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 2932.6 ms
+=================================================================
+
+{
+  "predicted_x": 755.0,
+  "predicted_y": 809.0,
+  "confidence": 0.9733,
+  "num_candidates": 100,
+  "runtime_ms": 2932.61,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_098 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (752.0, 879.0)
+  RF Confidence     : 0.8924
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 1842.2 ms
+=================================================================
+
+{
+  "predicted_x": 752.0,
+  "predicted_y": 879.0,
+  "confidence": 0.8924,
+  "num_candidates": 100,
+  "runtime_ms": 1842.19,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_099 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (498.0, 423.0)
+  RF Confidence     : 0.9686
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 2828.3 ms
+=================================================================
+
+{
+  "predicted_x": 498.0,
+  "predicted_y": 423.0,
+  "confidence": 0.9686,
+  "num_candidates": 100,
+  "runtime_ms": 2828.33,
+  "model_name": "RandomForestClassifier"
+}
+
+===== pair_100 =====
+
+=================================================================
+  DRIFT-SENSE ML LOCALIZATION RESULT
+=================================================================
+  Predicted Center  : (802.0, 843.0)
+  RF Confidence     : 0.9793
+  Candidates Scored : 100
+  Model             : RandomForestClassifier
+  Runtime           : 1778.1 ms
+=================================================================
+
+{
+  "predicted_x": 802.0,
+  "predicted_y": 843.0,
+  "confidence": 0.9793,
+  "num_candidates": 100,
+  "runtime_ms": 1778.11,
+  "model_name": "RandomForestClassifier"
+}
