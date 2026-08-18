@@ -1,0 +1,7 @@
+Bunday et al. CD-SEM Measurement of Line Edge Roughness Test Patterns for 193 nm Lithography
+
+Official/Open source:
+https://www.nist.gov/publications/cd-sem-measurement-line-edge-roughness-test-patterns-193-nm-lithography
+
+Access note:
+Official NIST publication page; use its Download Paper option.

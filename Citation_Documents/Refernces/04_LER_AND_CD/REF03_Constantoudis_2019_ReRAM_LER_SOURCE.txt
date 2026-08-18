@@ -1,0 +1,9 @@
+Constantoudis et al.  Impact of Line Edge Roughness on ReRAM Uniformity and Scaling
+
+Open full text:
+https://pmc.ncbi.nlm.nih.gov/articles/PMC6926851/
+
+Also available as PDF:
+https://pdfs.semanticscholar.org/9862/704b4a34c9d9b75d62bf76c2d1569846496b.pdf
+
+Use: controlled LER modeling, edge correlation, and variability.
